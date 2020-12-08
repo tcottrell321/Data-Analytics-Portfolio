@@ -1,7 +1,6 @@
-# Thomas Cottrell Data Science Project Portfolio
 A collection of data science projects showcasing foundational technologies (SQL, Python, Tableau and others) and aspirational projects in Machine Learning
 
-# Project 1 - Pewlett_Hackard_Analysis
+# [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 Pewlett-Hackard is a large established company with over 300,000 employees worldwide. They have a large number of people near retirement age, and the company wants to offer early retirement packages to move those employees on to retirement, do succession planning in the management ranks and refresh the workforce. Senior Managers and HR need reports to answer the following questions:
 1)	How many employees overall will be offered the retirement package? 
 2)	How many retirees are there by each of the 9 functional departments? 
@@ -16,7 +15,7 @@ Pewlett-Hackard is a large established company with over 300,000 employees world
 •	QuickDBD ERD Design Tool (free version)
 •	Visual Studio (capturing queries)
 
-# Project 2 - PyCitySchool Analysis
+# [Project 2 - PyCitySchool Analysis](https://github.com/tcottrell321/school_district_analysis)
 The objective of this module was to take 2 CSV files reflecting test results from 14 different schools in the district. The analysis was conducted under the supervision of a Senior Data Scientist - Maria. Maria provided the interface between the Clients - the School District Board - and our work - to answer the questions relevant to the School Board. 
 
 As in real life, new questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
