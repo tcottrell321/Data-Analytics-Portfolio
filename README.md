@@ -1,7 +1,7 @@
 A collection of data science projects showcasing foundational technologies (SQL, Python, Tableau and others) and aspirational projects in Machine Learning
 
 # [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
-![](/images/Employees1.jpg=100X40)
+![](/images/Employees1.jpg =100X40)
 
 Pewlett-Hackard is a large established company with over 300,000 employees worldwide. They have a large number of people near retirement age, and the company wants to offer early retirement packages to move those employees on to retirement, do succession planning in the management ranks and refresh the workforce. Senior Managers and HR need reports to answer the following questions:
 1)	How many employees overall will be offered the retirement package? 
