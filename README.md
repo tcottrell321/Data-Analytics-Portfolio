@@ -11,7 +11,7 @@ Pewlett-Hackard is a large established company with over 300,000 employees world
 5)	What is the impact by job title? 
 6)	Who are potential mentors which might be able to help train the new hires? 
 
-# Resources
+## Resources
 •	6 CSV files from HR on employee and department data. 
 •	PregresQL Database (free version)
 •	QuickDBD ERD Design Tool (free version)
@@ -25,7 +25,7 @@ The objective of this module was to take 2 CSV files reflecting test results fro
 
 As in real life, new questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
 
-# Resources
+## Resources
 1) Python 3.6.9 environment
 2) School Data File in CSV format
 3) Student Data File in CSV format
