@@ -28,4 +28,4 @@ As in real life, new questions -- and required analysis -- emerged as the origin
 4) Import Pandas as PD
 5) Import OS
 
-![](https://github.com/tcottrell321/Thomas_DataScience_Portfolio/blob/main/images/Employees.jpg)
+![](https://github.com/tcottrell321/Thomas_DataScience_Portfolio/blob/main/images/Schools.jpg)
