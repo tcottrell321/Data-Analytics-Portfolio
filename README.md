@@ -11,11 +11,11 @@ Pewlett-Hackard is a large established company with over 300,000 employees world
 5)	What is the impact by job title? 
 6)	Who are potential mentors which might be able to help train the new hires? 
 
-## Technology Stack
-•	6 CSV files from HR on employee and department data. 
-•	PostgreSQL Database
-•	QuickDBD ERD Design Tool
-•	Visual Studio (capturing queries)
+### Technology Stack
+- 6 CSV files from HR on employee and department data. 
+- PostgreSQL Database
+- QuickDBD ERD Design Tool
+- Visual Studio (capturing queries)
 
 
 # [Project 2 - PyCitySchool Analysis](https://github.com/tcottrell321/school_district_analysis)
@@ -25,9 +25,9 @@ The objective of this module was to take 2 CSV files reflecting test results fro
 
 As in real life, new questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
 
-## Technology Stack
-1) Python 3.6.9 environment
-2) School Data File in CSV format
-3) Student Data File in CSV format
-4) Import Pandas as PD
-5) Import OS
+### Technology Stack
+- Python 3.6.9 environment
+- School Data File in CSV format
+ - Student Data File in CSV format
+- Import Pandas as PD
+- Import OS
