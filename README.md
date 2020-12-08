@@ -28,6 +28,6 @@ As in real life, new questions -- and required analysis -- emerged as the origin
 ### Technology Stack
 - Python 3.6.9 environment
 - School Data File in CSV format
- - Student Data File in CSV format
+- Student Data File in CSV format
 - Import Pandas as PD
 - Import OS
