@@ -15,7 +15,7 @@ Pewlett-Hackard is a large established company with over 300,000 employees world
 •	QuickDBD ERD Design Tool (free version)
 •	Visual Studio (capturing queries)
 
-![](https://github.com/tcottrell321/Thomas_DataScience_Portfolio/blob/main/images/Employees.jpg)
+![](https://github.com/tcottrell321/Thomas_DataScience_Portfolio/blob/main/images/Employees1.jpg)
 # [Project 2 - PyCitySchool Analysis](https://github.com/tcottrell321/school_district_analysis)
 The objective of this module was to take 2 CSV files reflecting test results from 14 different schools in the district. The analysis was conducted under the supervision of a Senior Data Scientist - Maria. Maria provided the interface between the Clients - the School District Board - and our work - to answer the questions relevant to the School Board. 
 
