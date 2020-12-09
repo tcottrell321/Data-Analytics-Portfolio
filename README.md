@@ -4,15 +4,19 @@
 # [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 ![](/images/Employees1.jpg)
 
-Situation: A large company with over 300,000 employees wanted to offer early retirement packages and do succession planning in the management ranks, refreshing its workforce. 
+### Situation:
+A large company with over 300,000 employees wanted to offer early retirement packages and do succession planning in the management ranks, refreshing its workforce. 
 
-Tasks and Actions: I created ERD diagrams for the DB and SQL code to load the data. I then created additional queries for new aggregate tables, filters, sorting, and elimination of bad data.
+### Tasks and Actions
+I created ERD diagrams for the DB and SQL code to load the data. I then created additional queries for new aggregate tables, filters, sorting, and elimination of bad data.
 
-Results: Senior Managers and HR recieved target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workfoce. 
+### Results
+Senior Managers and HR recieved target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workfoce. 
 
-### Technology Stack
-- CSV files from HR on employee and department data. 
-- PostgreSQL Database, QuickDBD and Visual Studio
+### Process and Technology
+- Emphasized Exploration and Analysis sections of process.
+- CSV files from HR on employee and department data were provided. 
+- PostgreSQL Database, QuickDBD and Visual Studio used for exploration and analysis.
 
 
 # [Project 2 - PyCitySchool Analysis](https://github.com/tcottrell321/school_district_analysis)
