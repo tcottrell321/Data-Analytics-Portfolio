@@ -14,7 +14,7 @@ I created ERD diagrams for the DB and SQL code to load the data. I then performe
 Senior Managers and HR recieved report and target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workforce. 
 
 ### Process and Technology
-- Emphasized Exploration and Analysis sections of process.
+- Emphasized Exploration/Metrics and Analysis/Insights blocks of process.
 - CSV files from HR on employee and department data were provided. 
 - PostgreSQL Database, QuickDBD and Visual Studio used for exploration and analysis.
 
