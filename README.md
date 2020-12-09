@@ -1,5 +1,5 @@
 # Introduction
-![](/images/Data_Science_Process.jpg)
+![](/images/Process.jpg)
 
 
 # [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
