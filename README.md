@@ -4,19 +4,15 @@
 # [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 ![](/images/Employees1.jpg)
 
-Pewlett-Hackard is a large established company with over 300,000 employees worldwide. They have a large number of people near retirement age, and the company wants to offer early retirement packages to move those employees on to retirement, do succession planning in the management ranks and refresh the workforce. Senior Managers and HR need reports to answer the following questions:
-1)	How many employees overall will be offered the retirement package? 
-2)	How many retirees are there by each of the 9 functional departments? 
-3)	Who are the managers of those departments who will need the lists for planning?
-4)	What is the impact on overall salary costs? 
-5)	What is the impact by job title? 
-6)	Who are potential mentors which might be able to help train the new hires? 
+Situation: A large company with over 300,000 employees wanted to offer early retirement packages and do succession planning in the management ranks, refreshing its workforce. 
+
+Tasks and Actions: I created ERD diagrams for the DB and SQL code to load the data. I then created additional queries for new aggregate tables, filters, sorting, and elimination of bad data.
+
+Results: Senior Managers and HR recieved target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workfoce. 
 
 ### Technology Stack
-- 6 CSV files from HR on employee and department data. 
-- PostgreSQL Database
-- QuickDBD ERD Design Tool
-- Visual Studio (capturing queries)
+- CSV files from HR on employee and department data. 
+- PostgreSQL Database, QuickDBD and Visual Studio
 
 
 # [Project 2 - PyCitySchool Analysis](https://github.com/tcottrell321/school_district_analysis)
