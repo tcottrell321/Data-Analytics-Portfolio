@@ -7,11 +7,11 @@
 ### Situation:
 A large company with over 300,000 employees wanted to offer early retirement packages and do succession planning in the management ranks, refreshing its workforce. 
 
-### Tasks and Actions
-I created ERD diagrams for the DB and SQL code to load the data. I then created additional queries for new aggregate tables, filters, sorting, and elimination of bad data.
+### Tasks and Actions:
+I created ERD diagrams for the DB and SQL code to load the data. I then performed an analysis by creating additional queries for new aggregate tables, filters, sorting, and elimination of bad data - ultimately documenting the results in a report. 
 
-### Results
-Senior Managers and HR recieved target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workfoce. 
+### Results:
+Senior Managers and HR recieved report and target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workforce. 
 
 ### Process and Technology
 - Emphasized Exploration and Analysis sections of process.
