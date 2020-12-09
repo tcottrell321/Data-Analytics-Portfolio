@@ -1,4 +1,4 @@
-![](/images/DSProcess.JPG)
+![](/images/DSProcess2.JPG)
 
 
 # [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
