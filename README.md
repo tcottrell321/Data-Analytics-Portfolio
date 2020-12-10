@@ -32,11 +32,9 @@ The student files were imported into dataframes then the data had to be cleaned 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
 
-
-# Group 2 - Visualizations and Insights Using Tableau, Google Data Studio, and Power BI
+# [Group 2 Visualizations Portfolio Using Tableau](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 ![](/images/DSProcess2.JPG)
 
-# [Projects 2.X My Tableau Visualization Portfolio](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
 
 # Group 3 - Aspirational Projects in Machine Learning
