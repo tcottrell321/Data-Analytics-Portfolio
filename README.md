@@ -40,4 +40,13 @@ Visualizations are a powerful way to tell a story with data. As a member of the 
 # Group 3 - Aspirational Projects in Machine Learning
 ![](/images/DSProcess3.JPG)
 
+## [Project 3.1 Investing in Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
+Using TensorFlow and Scikit-Learn with Python to improve investment accuracy in Non-Profits  
 
+### Situation:
+AlphabetSoup provides funding to non-profit organizations. In the past, they have contributed funds to 34,299 organizations, representing about $95B. With such large sums of money involved, improving their success rate by even a small percentage could reap big payoffs in ROI. 
+
+The AlphabetSoup Director would like to see if the application of Machine Learning or Deep Learning can find patterns in the data to help them improve their 53.2% Accuracy Rate on choosing the correct recipients to a target level of 75% or better. AlphabetSoup has provided a data file for the past recipients and noted if they achieved success, along with other parameters which they felt might be useful as a first pass analysis.
+
+### Actions and Output Value:  
+The problem is a classic "Binary Classification" problem, in which Applicant Non-Profits need to be separated into Successful and Non-Successful groups represented by the parameter "IS_SUCCESSFUL=1 or 0." Using Python Pandas it was determined that the DataFrame Shape is 34,299 Rows X 117 Columns. After preliminary analysis and wrangling an iterative process was used to train a Random Forest Classifier to find the optimum X parameters to achieve a greater predictive accuracy. A Benchmark RandomForest Model achieved an accuracy of 69.9%. This represents quite a significant improvement in AlphabetSoup's current approval process of 53.2% - or a 16.7% improvement. This improvement represents an additional 5700 organizations -- or $15.7B - being placed correctly with organization destined for success.
