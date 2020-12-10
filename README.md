@@ -53,7 +53,7 @@ The results were summarized into a final report with District Level Summary Tabl
 - School and Student Data Files in CSV format
 
 # [My Tableau Public Visualization Portfolio](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
-![](/images/Deficit.jpg)
+![](/images/Deficit.JPG)
 
 ### Situation:
 Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
