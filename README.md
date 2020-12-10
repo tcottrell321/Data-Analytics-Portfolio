@@ -19,7 +19,7 @@ Senior Managers and HR recieved report and target lists of employees to offer re
 - PostgreSQL Database, QuickDBD and Visual Studio used for exploration and analysis.
 
 # [Project 2 - Kickstarter Campaign Analysis](https://github.com/tcottrell321/kickstarter-analysis)
-![](/images/Theatre Outcomes.png)
+![](/images/theatreoutcomes.png)
 
 ### Situation:
 Our Client, Louise, wants to create a Kickstarter Campaign to fund her new US Based Theatre Play. She estimates she will need to raise $10-12K. In order to ensure success with this campaign, she requested an analysis of past Kickstarter Campaigns to determine if there were any common attributes or trends leading to success.
