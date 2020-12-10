@@ -38,13 +38,17 @@ A report was written showing both the statistical results as well as the final r
 # [Project 3 - PyCitySchool Analysis](https://github.com/tcottrell321/school_district_analysis)
 ![](/images/Schools.jpg)
 
-The objective of this module was to take 2 CSV files reflecting test results from 14 different schools in the district. The analysis was conducted under the supervision of a Senior Data Scientist - Maria. Maria provided the interface between the Clients - the School District Board - and our work - to answer the questions relevant to the School Board. 
+### Situation:
+Test results from 14 different schools in the district needed to be analyzed showing overall school performance against various parameters such as Spending/Student and Class Sizes. 
 
-As in real life, new questions -- and required analysis -- emerged as the original requests were completed. These additional analysis requirements were added to the scope of the project - and full-filled. 
+### Tasks and Actions: 
+The student files were imported into dataframes then the data had to be cleaned for NULL data, inconsistencies in text fields, and omitting data from 9th Grade classes as it had been changed dishonestly at the school level. To do this work, a number of Python functions and methods from Python and the Pandas/Numpy libraries. The data was then analyszed to answer a number of questions from the School Board, as well as provide District Level Summary Analysis. Consideration had to be given as to how the omitted data affected overall Summary Results. Work was performed under the direction of a Senior Data Scientist who worked directly with the School Board. 
+
+### Results: 
+The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
 ### Technology Stack
-- Python 3.6.9 environment
-- School Data File in CSV format
-- Student Data File in CSV format
-- Import Pandas as PD
-- Import OS
+- This project emphasized skills in the Wrangling and Analysis phase using Python and several libraries. 
+- Python, Pandas, Numpy 
+- School and Student Data Files in CSV format
+
