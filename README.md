@@ -7,7 +7,7 @@
 ![](/images/DSProcess1.JPG)
 
 ## [Project 1.1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
-Using SQL to perform TL and produce target employee lists for early retirement and succession planning. 
+Using SQL to perform TL and produce employee lists for early retirement and succession planning. 
 
 ### Situation:
 A large company with over 300,000 employees needed to rightsize by offering early retirement packages while doing succession planning and mentoring of their refreshed workforce.  
@@ -16,7 +16,7 @@ A large company with over 300,000 employees needed to rightsize by offering earl
 Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database - to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. 
 
 
-## [Project 1.2 Settomg Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
+## [Project 1.2 Setting Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
 Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
 
 ### Situation:
@@ -38,7 +38,7 @@ The results were summarized into a final report with District Level Summary Tabl
 
 
 
-# Group 2 - Visualizations and Analysis Insights Using Tableau, Google Data Studio, and Power BI
+# Group 2 - Visualizations and Insights Using Tableau, Google Data Studio, and Power BI
 ![](/images/DSProcess2.JPG)
 
 # [Projects 2.X My Tableau Visualization Portfolio](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
