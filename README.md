@@ -1,22 +1,17 @@
 ![](/images/DSProcess2.JPG)
 
+# Projects Emphasizing Use of Databases, SQL, Excel, and the ETL Process
 
-# [Project 1 - Pewlett_Hackard_Analysis](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
+## [Using Analytics to Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
+Using PostgresSQL, QuickDBD, Visual Studio and employee attributes to produce target employee lists for early retirement, succession planning, mentoring roles and salary cost analysis. 
 ![](/images/Employees1.jpg)
 
 ### Situation:
-A large company with over 300,000 employees wanted to offer early retirement packages and do succession planning in the management ranks, refreshing its workforce. 
+A large company with over 300,000 employees needed to rightsize by offering early retirement packages while doing succession planning and mentoring of their refreshed workforce.  
 
-### Tasks and Actions:
-I created ERD diagrams for the DB and SQL code to load the data. I then performed an analysis by creating additional queries for new aggregate tables, filters, sorting, and elimination of bad data - ultimately documenting the results in a report. 
+### Actions and Output:
+Using provided CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. The report is stored in the GitHub Project Repository. 
 
-### Results:
-Senior Managers and HR recieved report and target lists of employees to offer retirement packages along with a Salary Cost Analysis and a Target Mentors list for refreshed workforce. 
-
-### Process and Technology
-- Emphasized Exploration/Metrics and Analysis/Insights blocks of process.
-- CSV files from HR on employee and department data were provided. 
-- PostgreSQL Database, QuickDBD and Visual Studio used for exploration and analysis.
 
 # [Project 2 - Kickstarter Campaign Analysis](https://github.com/tcottrell321/kickstarter-analysis)
 ![](/images/theatreoutcomes.png)
