@@ -1,4 +1,4 @@
-## Projects are grouped in 1 of 3 groups based on the technology used and area of Data Science Process being highlighted: 
+## Projects can be found in 1 of 3 groups:  
 * Group 1 - Use of Local Databases, SQL, Excel, Python, Pandas, and Numpy to perform ETL and Analysis Process 
 * Group 2 - Visualizations and Analysis Insights Using Tableau, Google Data Studio, and Power BI
 * Group 3 - Machine Learning and Predictive Analysis using Python and Libraries, TensorFlow, Big Data
@@ -6,7 +6,7 @@
 ## Group 1 - SQL, Excel, Python, Pandas, Numpy
 ![](/images/DSProcess1.JPG)
 
-## [Using Analytics to Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
+## [Project 1.1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 Using SQL to perform TL and produce target employee lists for early retirement and succession planning. 
 
 ### Situation:
@@ -16,7 +16,7 @@ A large company with over 300,000 employees needed to rightsize by offering earl
 Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database - to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. 
 
 
-## [Setting Realistic Goals for Your Kickstarter Campaign](https://github.com/tcottrell321/kickstarter-analysis)
+## [Project 1.2 Settomg Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
 Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
 
 ### Situation:
@@ -26,8 +26,8 @@ Rather than just winging it, the smart use of data analytics and past kickstarte
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
 
 
-## [Determining School District Performance In Light of Cheating](https://github.com/tcottrell321/school_district_analysis)
-Using Python, Pandas, and Numpy to analyze the performance of 14 schools within a single district.  
+## [Project 1.3 Determining School Performance](https://github.com/tcottrell321/school_district_analysis)
+Using Python, Pandas, and Numpy to analyze the performance of 14 schools within a single district in light of cheating.  
 
 ### Situation:
 Test results from 14 individual schools in one district were analyzed, stacked ranked for comparison, then summarized for district level performance against various parameters such as Spending/Student and Class Sizes. After discovering test score cheating at one school, the data had to be cleaned and resummarized to ensure district level data integrity and results. 
@@ -41,7 +41,7 @@ The results were summarized into a final report with District Level Summary Tabl
 # Group 2 - Visualizations and Analysis Insights Using Tableau, Google Data Studio, and Power BI
 ![](/images/DSProcess2.JPG)
 
-# [My Tableau Visualization Portfolio](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
+# [Projects 2.X My Tableau Visualization Portfolio](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
 
 # Group 3 - Aspirational Projects in Machine Learning and Predictive Analysis using Python Scikit-Learn and TensorFlow
