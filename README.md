@@ -1,9 +1,4 @@
-## Projects can be found in 1 of 3 groups:  
-* Group 1 - Use of Local Databases, SQL, Excel, Python, Pandas, and Numpy to perform ETL and Analysis Process 
-* Group 2 - Visualizations and Analysis Insights Using Tableau, Google Data Studio, and Power BI
-* Group 3 - Machine Learning and Predictive Analysis using Python and Libraries, TensorFlow, Big Data
-
-## Group 1 - SQL, Excel, Python, Pandas, Numpy
+# Group 1 - SQL, Excel, Python, Pandas, Numpy
 ![](/images/DSProcess1.JPG)
 
 ## [Project 1.1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
@@ -44,7 +39,7 @@ The results were summarized into a final report with District Level Summary Tabl
 # [Projects 2.X My Tableau Visualization Portfolio](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
 
-# Group 3 - Aspirational Projects in Machine Learning and Predictive Analysis using Python Scikit-Learn and TensorFlow
+# Group 3 - Aspirational Projects in Machine Learning
 ![](/images/DSProcess3.JPG)
 
 
