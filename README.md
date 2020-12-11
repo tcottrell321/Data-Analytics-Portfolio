@@ -3,7 +3,7 @@
 
 ## [Project 1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 Using SQL to perform TL and produce employee lists for early retirement and succession planning.
-![](/images/employees1.JPG)
+![](/images/employees1.jpg)
 
 ### Situation:
 A large company with over 300,000 employees needed to rightsize by offering early retirement packages while doing succession planning and mentoring of their refreshed workforce.  
