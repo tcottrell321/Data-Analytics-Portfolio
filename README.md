@@ -17,7 +17,7 @@ Applying data analytics via Excel Functions and Graphing to past Kickstarter Cam
 ![](/images/kickstarterlogo.JPG)
 
 ### Situation:
-Rather than just winging it, the smart use of data analytics and past kickstarter campaign data -- on both successful and failed - can be used set realistic, achievable monetary and timing goals for your new kickstarter campaign. In this project, Louise wants to create a Kickstarter Campaign to fund her new US Based Theatre Play. She estimates she will need to raise $10-12K. 
+Rather than just winging it, the smart use of data analytics and past kickstarter campaign data -- on both successful and failed - can be used to set realistic, achievable monetary and timing goals for your new kickstarter campaign. In this project, Louise wants to create a Kickstarter Campaign to fund her new US Based Theatre Play. She estimates she will need to raise $10-12K. 
 
 ### Actions and Output Value:
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
