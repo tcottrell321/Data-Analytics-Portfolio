@@ -1,3 +1,6 @@
+## Click on any Project Title link to goto GitHub Repository. 
+
+
 ## [Project 1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 Using SQL to perform TL and produce employee lists for early retirement and succession planning. 
 
