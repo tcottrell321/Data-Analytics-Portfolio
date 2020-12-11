@@ -50,3 +50,16 @@ The AlphabetSoup Director would like to see if the application of Machine Learni
 
 ### Actions and Output Value:  
 The problem is a classic "Binary Classification" problem, in which Applicant Non-Profits need to be separated into Successful and Non-Successful groups represented by the parameter "IS_SUCCESSFUL=1 or 0." Using Python Pandas it was determined that the DataFrame Shape is 34,299 Rows X 117 Columns. After preliminary analysis and wrangling an iterative process was used to train a Random Forest Classifier to find the optimum X parameters to achieve a greater predictive accuracy. A Benchmark RandomForest Model achieved an accuracy of 69.9%. This represents quite a significant improvement in AlphabetSoup's current approval process of 53.2% - or a 16.7% improvement. This improvement represents an additional 5700 organizations -- or $15.7B - being placed correctly with organization destined for success.
+
+## [Project 3.2 Using ML to Screen Loans](https://github.com/tcottrell321/Loan_Application_Screener)
+Starting with an Imbalanced Dataset, various ML Sampling Techniques were used to see which methods resulted in the highest accuracy predictions for borrower payback.   
+
+### Situation:
+LendingClub is a peer-to-peer lending company in which private investors can invest their own money by lending it to other individuals. Lending Club makes millions of individual loans and keeps original loan application files and if the borrower ultimately paid back the loan or defaulted.This data was stripped of borrower ID information making it anonymous, but the variables during application were kept in tact so they could be evaluated by a machine learning model.
+
+### Actions and Output Value:  
+To facilitate building and testing various ML Sampling Models, a CSV file was provided for "train" and "test" data.The problem is a "Classification" problem, but its complicated by the dataset being Unbalanced. Results were achieved by iterative testing of 4 different sampling models using a structured process described in the project README file. 
+
+Conclusions: If the objective of the LendingClub is to maximize marketshare then choosing the SMOTE Oversampling will provide the highest number of approvals for low-risk loan applicants and the lowest number of rejections on good borrowers, with a slight hit on profitability per loan by accepting a higher rate of approvals for high-risk applicants, 
+
+If LendingClub instead wishes to maximize profitability instead of markeshare, then choosing the Random Sampling Model might be best to minimize the number of approvals on high-risk candidates at some sacrifice of rejecting good candidates.
