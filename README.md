@@ -28,13 +28,6 @@ Test results from 14 individual schools in one district were analyzed, stacked r
 The student files were imported into dataframes then the data had to be cleaned for NULL data, inconsistencies in text fields, and omitting data from 9th Grade classes as it had been changed dishonestly at the school level. To do this work, a number of Python functions and methods from Python and the Pandas/Numpy libraries. The data was then analyszed to answer a number of questions from the School Board, as well as provide District Level Summary Analysis. Consideration had to be given as to how the omitted data affected overall Summary Results. Work was performed under the direction of a Senior Data Scientist who worked directly with the School Board. 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
-
-# [Visualizations Portfolio Using Tableau](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
-
-Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
-
-# Group 3 - Aspirational Projects in Machine Learning
-
 ## [Project 4 Investing in Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
 Using TensorFlow and Scikit-Learn with Python to improve investment accuracy in Non-Profits  
 
@@ -58,3 +51,8 @@ To facilitate building and testing various ML Sampling Models, a CSV file was pr
 Conclusions: If the objective of the LendingClub is to maximize marketshare then choosing the SMOTE Oversampling will provide the highest number of approvals for low-risk loan applicants and the lowest number of rejections on good borrowers, with a slight hit on profitability per loan by accepting a higher rate of approvals for high-risk applicants, 
 
 If LendingClub instead wishes to maximize profitability instead of markeshare, then choosing the Random Sampling Model might be best to minimize the number of approvals on high-risk candidates at some sacrifice of rejecting good candidates.
+
+# [Visualizations Portfolio Using Tableau](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
+
+Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
+
