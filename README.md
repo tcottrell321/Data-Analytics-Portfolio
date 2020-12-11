@@ -14,6 +14,7 @@ Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL
 
 ## [Project 2 Setting Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
 Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
+![](/images/kickstarterlogo.jpg)
 
 ### Situation:
 Rather than just winging it, the smart use of data analytics and past kickstarter campaign data -- on both successful and failed - can be used set realistic, achievable monetary and timing goals for your new kickstarter campaign. In this project, Louise wants to create a Kickstarter Campaign to fund her new US Based Theatre Play. She estimates she will need to raise $10-12K. 
