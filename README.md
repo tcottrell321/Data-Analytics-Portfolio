@@ -47,6 +47,7 @@ The problem is a classic "Binary Classification" problem, in which Applicant Non
 
 ## [Project 5 Using ML to Screen Loans](https://github.com/tcottrell321/Loan_Application_Screener)
 Starting with an Imbalanced Dataset, various ML Sampling Techniques were used to see which methods resulted in the highest accuracy predictions for borrower payback.   
+![](/images/loans.png)
 
 ### Situation:
 LendingClub is a peer-to-peer lending company in which private investors can invest their own money by lending it to other individuals. Lending Club makes millions of individual loans and keeps original loan application files and if the borrower ultimately paid back the loan or defaulted.This data was stripped of borrower ID information making it anonymous, but the variables during application were kept in tact so they could be evaluated by a machine learning model.
