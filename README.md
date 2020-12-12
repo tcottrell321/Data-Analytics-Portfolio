@@ -25,7 +25,7 @@ Using data from over 4000 past campaigns, Excel and its built-in functions were 
 
 ## [Project 3 Determining School Performance](https://github.com/tcottrell321/school_district_analysis)
 Using Python, Pandas, and Numpy to analyze the performance of 14 schools within a single district in light of cheating.  
-
+![](/images/schooltesting1.jpg)
 ### Situation:
 Test results from 14 individual schools in one district were analyzed, stacked ranked for comparison, then summarized for district level performance against various parameters such as Spending/Student and Class Sizes. After discovering test score cheating at one school, the data had to be cleaned and resummarized to ensure district level data integrity and results. 
 
