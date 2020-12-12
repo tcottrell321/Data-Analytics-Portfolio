@@ -13,7 +13,7 @@ Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL
 
 
 ## [Project 2 Setting Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
-Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
+### Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
 ![](/images/kickstarterlogo.JPG)
 
 ### Situation:
@@ -24,7 +24,7 @@ Using data from over 4000 past campaigns, Excel and its built-in functions were 
 
 
 ## [Project 3 Determining School Performance](https://github.com/tcottrell321/school_district_analysis)
-Using Python, Pandas, and Numpy to analyze the performance of 14 schools within a single district in light of cheating.  
+### Using Python, Pandas, and Numpy I analyzed the performance of 14 schools within a single district in light of cheating. I learned techniques for dealing with invalid data. 
 ![](/images/schooltesting1.jpg)
 ### Situation:
 Test results from 14 individual schools in one district were analyzed, stacked ranked for comparison, then summarized for district level performance against various parameters such as Spending/Student and Class Sizes. After discovering test score cheating at one school, the data had to be cleaned and resummarized to ensure district level data integrity and results. 
@@ -34,7 +34,7 @@ The student files were imported into dataframes then the data had to be cleaned 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
 ## [Project 4 Using AI to Help Direct Donations To Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
-Can Machine Learning be used to improve the ROI of investments made in Non-Profits? In this project TensorFlow and Scikit-Learn were used to train a Machine Learning Model on sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
+### Can Machine Learning be used to improve the ROI of investments made in Non-Profits? In this project TensorFlow and Scikit-Learn were used to train a Machine Learning Model on sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
 ![](/images/ai.jpg)
 
 ### Situation:
@@ -46,7 +46,7 @@ The AlphabetSoup Director would like to see if the application of Machine Learni
 The problem is a classic "Binary Classification" problem, in which Applicant Non-Profits need to be separated into Successful and Non-Successful groups represented by the parameter "IS_SUCCESSFUL=1 or 0." Using Python Pandas it was determined that the DataFrame Shape is 34,299 Rows X 117 Columns. After preliminary analysis and wrangling an iterative process was used to train a Random Forest Classifier to find the optimum X parameters to achieve a greater predictive accuracy. A Benchmark RandomForest Model achieved an accuracy of 69.9%. This represents quite a significant improvement in AlphabetSoup's current approval process of 53.2% - or a 16.7% improvement. This improvement represents an additional 5700 organizations -- or $15.7B - being placed correctly with organization destined for success.
 
 ## [Project 5 Using ML to Screen Loans](https://github.com/tcottrell321/Loan_Application_Screener)
-Starting with an Imbalanced Dataset, various ML Sampling Techniques were used to see which methods resulted in the highest accuracy predictions for borrower payback.   
+### Peer2Peer Lending is emerging as an important tool - for both lenders and borrowers and can be improved through the application of AI/Machine Learning to assess risk. ck.   
 ![](/images/loans.png)
 
 ### Situation:
