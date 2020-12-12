@@ -2,7 +2,7 @@
 
 
 ## [Project 1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
-Using SQL to perform TL and produce employee lists for early retirement and succession planning.
+### Using SQL to perform transformation and load operations I produced decision making employee lists for early retirement and succession planning.
 ![](/images/employees2.jpg)
 
 ### Situation:
