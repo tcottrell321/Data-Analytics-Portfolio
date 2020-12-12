@@ -44,7 +44,7 @@ The AlphabetSoup Director would like to see if the application of Machine Learni
 The problem is a classic "Binary Classification" problem, in which Applicant Non-Profits need to be separated into Successful and Non-Successful groups represented by the parameter "IS_SUCCESSFUL=1 or 0." Using Python Pandas it was determined that the DataFrame Shape is 34,299 Rows X 117 Columns. After preliminary analysis and wrangling an iterative process was used to train a Random Forest Classifier to find the optimum X parameters to achieve a greater predictive accuracy. A Benchmark RandomForest Model achieved an accuracy of 69.9%. This represents quite a significant improvement in AlphabetSoup's current approval process of 53.2% - or a 16.7% improvement. This improvement represents an additional 5700 organizations -- or $15.7B - being placed correctly with organization destined for success.
 
 ## [Improving Loan Screening Using Machine Learning](https://github.com/tcottrell321/Loan_Application_Screener)
-### Peer2Peer Lending is emerging as an important tool - for both lenders and borrowers and can be improved through the application of AI/Machine Learning to assess risk.    
+### Peer2Peer Lending is emerging as an important tool for both lenders and borrowers and can be improved through the application of AI/Machine Learning to assess risk.    
 ![](/images/loans.png)
 
 ### Situation
