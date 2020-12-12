@@ -35,7 +35,7 @@ The results were summarized into a final report with District Level Summary Tabl
 
 ## [Project 4 Improving ROI for Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
 Using TensorFlow and Scikit-Learn a Machine Learning Model was trained on past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
-![](/images/donation1.jpg)
+![](/images/ai.jpg)
 
 
 ### Situation:
