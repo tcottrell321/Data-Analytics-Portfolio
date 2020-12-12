@@ -1,4 +1,4 @@
-## Click on any Project Title link to goto GitHub Repository. 
+### Clicking on Project Title takes you to its GitHub Repository. 
 
 ## [Using Analytics To Set Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
 ### Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
