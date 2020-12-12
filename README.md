@@ -61,5 +61,5 @@ If LendingClub instead wishes to maximize profitability instead of markeshare, t
 
 # [Visualizations Portfolio Using Tableau](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 ![](/images/dashboard1.jpg)
-Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
+Dashboards and Visualizations are a powerful way to provide realtime business updates or tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
 
