@@ -33,10 +33,9 @@ Test results from 14 individual schools in one district were analyzed, stacked r
 The student files were imported into dataframes then the data had to be cleaned for NULL data, inconsistencies in text fields, and omitting data from 9th Grade classes as it had been changed dishonestly at the school level. To do this work, a number of Python functions and methods from Python and the Pandas/Numpy libraries. The data was then analyszed to answer a number of questions from the School Board, as well as provide District Level Summary Analysis. Consideration had to be given as to how the omitted data affected overall Summary Results. Work was performed under the direction of a Senior Data Scientist who worked directly with the School Board. 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
-## [Project 4 Improving ROI for Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
-Using TensorFlow and Scikit-Learn a Machine Learning Model was trained on past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
+## [Project 4 Using AI to Help Direct Donations To Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
+Can Machine Learning be used to improve the ROI of investments made in Non-Profits? In this project TensorFlow and Scikit-Learn were used to train a Machine Learning Model on sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
 ![](/images/ai.jpg)
-
 
 ### Situation:
 AlphabetSoup provides funding to non-profit organizations. In the past, they have contributed funds to 34,299 organizations, representing about $95B. With such large sums of money involved, improving their success rate by even a small percentage could reap big payoffs in ROI. 
