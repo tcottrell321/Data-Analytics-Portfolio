@@ -1,5 +1,5 @@
 ## Portfolio Introduction
-As the field of Data Sience and Analytics continues to mature, the range of business problems it can help solve is staggering. Each project in this portfolio simulates a specific business problem and solution - ranging from simple excel to sophisticated AI/Machine Learning Networks. Clicking on the Titles will take you to the respective GitHub Project Respository. 
+As the field of Data Science and Analytics continues to mature, the range of business problems it can help solve is staggering. Each project in this portfolio simulates a specific business problem and solution - ranging from simple excel to sophisticated AI/Machine Learning Networks. Clicking on the Titles will take you to the respective GitHub Project Respository. 
 
 ## [Using Analytics To Set Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
 ### Applying data analytics via excel functions and graphing to past Kickstarter Campaigns can help inform goals for your new campaign. 
