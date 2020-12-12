@@ -1,18 +1,6 @@
 ## Click on any Project Title link to goto GitHub Repository. 
 
-
-## [Project 1 Rightsize and Refresh Employee Base](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
-### Using SQL to perform transformation and load operations I produced decision making employee lists for early retirement and succession planning.
-![](/images/employees2.jpg)
-
-### Situation:
-A large company with over 300,000 employees needed to rightsize by offering early retirement packages while doing succession planning and mentoring of their refreshed workforce.  
-
-### Actions and Output Value:
-Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database - to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. 
-
-
-## [Project 2 Setting Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
+## [Using Analytics To Set Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
 ### Applying data analytics via Excel Functions and Graphing to past Kickstarter Campaigns can help inform goals for your new Campaign. 
 ![](/images/kickstarterlogo.JPG)
 
@@ -22,8 +10,17 @@ Rather than just winging it, the smart use of data analytics and past kickstarte
 ### Actions and Output Value:
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
 
+## [Providing Decision Support for Rightsizing Employees](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
+### Using SQL to perform transformation and load operations I produced decision making employee lists for early retirement and succession planning.
+![](/images/employees2.jpg)
 
-## [Project 3 Determining School Performance](https://github.com/tcottrell321/school_district_analysis)
+### Situation:
+A large company with over 300,000 employees needed to rightsize by offering early retirement packages while doing succession planning and mentoring of their refreshed workforce.  
+
+### Actions and Output Value:
+Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database - to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. 
+
+## [Using Python To Determine School Performance](https://github.com/tcottrell321/school_district_analysis)
 ### Using Python, Pandas, and Numpy I analyzed the performance of 14 schools within a single district in light of cheating. I learned techniques for dealing with invalid data. 
 ![](/images/schooltesting1.jpg)
 ### Situation:
@@ -33,8 +30,8 @@ Test results from 14 individual schools in one district were analyzed, stacked r
 The student files were imported into dataframes then the data had to be cleaned for NULL data, inconsistencies in text fields, and omitting data from 9th Grade classes as it had been changed dishonestly at the school level. To do this work, a number of Python functions and methods from Python and the Pandas/Numpy libraries. The data was then analyszed to answer a number of questions from the School Board, as well as provide District Level Summary Analysis. Consideration had to be given as to how the omitted data affected overall Summary Results. Work was performed under the direction of a Senior Data Scientist who worked directly with the School Board. 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
-## [Project 4 Using AI to Help Direct Donations To Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
-### Can Machine Learning be used to improve the ROI of investments made in Non-Profits? In this project TensorFlow and Scikit-Learn were used to train a Machine Learning Model on sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
+## [Using AI to Help Direct Donations To Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
+### Can Machine Learning be used to improve the ROI of investments made in Non-Profits? In this application using TensorFlow and Scikit-Learn a Machine Learning Model was trained using sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
 ![](/images/ai.jpg)
 
 ### Situation:
@@ -45,8 +42,8 @@ The AlphabetSoup Director would like to see if the application of Machine Learni
 ### Actions and Output Value:  
 The problem is a classic "Binary Classification" problem, in which Applicant Non-Profits need to be separated into Successful and Non-Successful groups represented by the parameter "IS_SUCCESSFUL=1 or 0." Using Python Pandas it was determined that the DataFrame Shape is 34,299 Rows X 117 Columns. After preliminary analysis and wrangling an iterative process was used to train a Random Forest Classifier to find the optimum X parameters to achieve a greater predictive accuracy. A Benchmark RandomForest Model achieved an accuracy of 69.9%. This represents quite a significant improvement in AlphabetSoup's current approval process of 53.2% - or a 16.7% improvement. This improvement represents an additional 5700 organizations -- or $15.7B - being placed correctly with organization destined for success.
 
-## [Project 5 Using ML to Screen Loans](https://github.com/tcottrell321/Loan_Application_Screener)
-### Peer2Peer Lending is emerging as an important tool - for both lenders and borrowers and can be improved through the application of AI/Machine Learning to assess risk. ck.   
+## [Improving Loan Screening Using Machine Learning](https://github.com/tcottrell321/Loan_Application_Screener)
+### Peer2Peer Lending is emerging as an important tool - for both lenders and borrowers and can be improved through the application of AI/Machine Learning to assess risk.    
 ![](/images/loans.png)
 
 ### Situation:
@@ -59,7 +56,7 @@ Conclusions: If the objective of the LendingClub is to maximize marketshare then
 
 If LendingClub instead wishes to maximize profitability instead of markeshare, then choosing the Random Sampling Model might be best to minimize the number of approvals on high-risk candidates at some sacrifice of rejecting good candidates.
 
-# [Visualizations Portfolio Using Tableau](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
+# [#makeovermonday Tableau Visualizations](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 ![](/images/dashboard1.jpg)
 Dashboards and Visualizations are a powerful way to provide realtime business updates or tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
 
