@@ -11,8 +11,8 @@ Rather than just winging it, the smart use of data analytics and past kickstarte
 ### Actions and Output Value:
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
 
-## [Providing Decision Support for Rightsizing Employees](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
-### Using SQL to perform transformation and load operations I produced decision making employee lists for early retirement and succession planning.
+## [Providing Decision Support for Company Rightsizing](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
+### Using SQL to perform transformation and load operations on HR data, I provided Decision Support for Senior Managers on upcoming early retirement and succession planning decisions. 
 ![](/images/employees2.jpg)
 
 ### Situation:
