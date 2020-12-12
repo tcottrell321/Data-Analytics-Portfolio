@@ -47,7 +47,7 @@ The problem is a classic "Binary Classification" problem, in which Applicant Non
 
 ## [Project 5 Using ML to Screen Loans](https://github.com/tcottrell321/Loan_Application_Screener)
 Starting with an Imbalanced Dataset, various ML Sampling Techniques were used to see which methods resulted in the highest accuracy predictions for borrower payback.   
-![](/images/dashboard1.jpg)
+![](/images/loans.png)
 
 ### Situation:
 LendingClub is a peer-to-peer lending company in which private investors can invest their own money by lending it to other individuals. Lending Club makes millions of individual loans and keeps original loan application files and if the borrower ultimately paid back the loan or defaulted.This data was stripped of borrower ID information making it anonymous, but the variables during application were kept in tact so they could be evaluated by a machine learning model.
@@ -60,6 +60,6 @@ Conclusions: If the objective of the LendingClub is to maximize marketshare then
 If LendingClub instead wishes to maximize profitability instead of markeshare, then choosing the Random Sampling Model might be best to minimize the number of approvals on high-risk candidates at some sacrifice of rejecting good candidates.
 
 # [Visualizations Portfolio Using Tableau](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
-
+![](/images/dashboard1.jpg)
 Visualizations are a powerful way to tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, the Community of several hundred Data Analysts gets feedback from Leaders in the Community. 
 
