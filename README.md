@@ -1,4 +1,4 @@
-[Link To School Project](#using-python-to-determine-school-performance)
+[Link To Tableau Visualizations](#makeovermonday-tableau-visualizations)
 
 ## Portfolio Introduction
 As the field of Data Science and Analytics continues to mature, the range of business problems it can help solve is staggering. Each project in this portfolio illustrates a business problem, either real or simulated, and how applying data science technology can help solve it with solutions ranging from simple excel to sophisticated AI/Machine Learning networks. Clicking on the Titles will take you to the respective GitHub Project Respository. 
@@ -61,6 +61,7 @@ Conclusions: If the objective of the LendingClub is to maximize marketshare then
 
 If LendingClub instead wishes to maximize profitability instead of markeshare, then choosing the Random Sampling Model might be best to minimize the number of approvals on high-risk candidates at some sacrifice of rejecting good candidates.
 
+## <a id="#makeovermonday-tableau-visualizations"></a> 
 # [#makeovermonday Tableau Visualizations](https://public.tableau.com/profile/thomas.cottrell#!/?newProfile=&activeTab=0)
 ![](/images/dashboard1.jpg)
 Dashboards and Visualizations are a powerful way to provide realtime business updates or tell a story with data. As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, our work is reviewed by the Leaders so we can continue to learn and improve. Click the title above to see my evolving portfolio of VIZs.  
