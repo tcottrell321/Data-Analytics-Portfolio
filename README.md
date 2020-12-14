@@ -16,7 +16,7 @@ Using data from over 4000 past campaigns, Excel and its built-in functions were 
 
 ## [Tracking COVID-19 In San Mateo County_CA](https://github.com/tcottrell321/COVID-19_Tracking_San_Mateo_County)
 ### Using a simple excel spreadsheet and weekly data from San Mateo Country, a single stacked-bar graph is produced to provide a snap shot on how the county is doing in controlling the sprad of COVID. 
-![](/images/COVID-19_San-Mateo_County.png)
+![](/images/COVID_image.jpg)
 
 ### Situation
 The San Mateo County Health Dept publishes COVID-19 updates on their website. I provide a simplified version to track total numbers by age and hospital utilization percentages which are hard to find on the County website. 
