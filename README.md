@@ -14,7 +14,7 @@ Rather than just winging it, the smart use of data analytics and past kickstarte
 ### Actions and Output Value
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
 
-## [Tacking COVID-19 In San Mateo County_CA](https://github.com/tcottrell321/COVID-19_Tracking_San_Mateo_County)
+## [Tracking COVID-19 In San Mateo County_CA](https://github.com/tcottrell321/COVID-19_Tracking_San_Mateo_County)
 ### Using a simple excel spreadsheet and weekly data from San Mateo Country, a single stacked-bar graph is produced to provide a snap shot on how the county is doing in controlling the sprad of COVID. 
 ![](/images/COVID-19_San-Mateo_County.png)
 
