@@ -19,7 +19,7 @@ Using data from over 4000 past campaigns, Excel and its built-in functions were 
 ![](/images/COVID_image.jpg)
 
 ### Situation
-The San Mateo County Health Dept publishes COVID-19 updates on their website but key data needed by citizens to make stay-at-home decisions is distributed across multiple web pages and hard to fine.  
+The San Mateo County Health Dept publishes COVID-19 updates on their website but key data needed by citizens to make stay-at-home decisions is distributed across multiple web pages and hard to find.  
 
 ### Actions and Output
 Using a simple excel spreadsheet, data is transcribed from a number of different pages on the County website to bring all critical data in one place which can support citizen's shelter-in-place decisions. I update the data once per week and post the graph on facebook for family and friends. 
