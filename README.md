@@ -28,7 +28,7 @@ Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL
 ![](/images/schooltesting1.jpg)
 ### Situation
 Test results from 14 individual schools in one district were analyzed, stacked ranked for comparison, then summarized for district level performance against various parameters such as Spending/Student and Class Sizes. After discovering test score cheating at one school, the data had to be cleaned and resummarized to ensure district level data integrity and results. 
-### <a id="#using-python-for-determining-school-performance"></a> Header
+### <a id="#using-python-for-determining-school-performance"></a> Using Python For Determine School Performance
 ### Actions and Output Value  
 The student files were imported into dataframes then the data had to be cleaned for NULL data, inconsistencies in text fields, and omitting data from 9th Grade classes as it had been changed dishonestly at the school level. To do this work, a number of Python functions and methods from Python and the Pandas/Numpy libraries. The data was then analyszed to answer a number of questions from the School Board, as well as provide District Level Summary Analysis. Consideration had to be given as to how the omitted data affected overall Summary Results. Work was performed under the direction of a Senior Data Scientist who worked directly with the School Board. 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
