@@ -47,7 +47,7 @@ The student files were imported into dataframes then the data had to be cleaned 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
 ## [Using AI to Help Direct Donations To Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
-### In this application using TensorFlow and Scikit-Learn, a Machine Learning Model was trained using sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
+### In this application using TensorFlow and Scikit-Learn, machine learning was used to better predict where to make future donations. 
 ![](/images/ai.jpg)
 
 ### Situation
