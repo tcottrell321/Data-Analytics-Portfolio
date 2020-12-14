@@ -24,11 +24,12 @@ A large company with over 300,000 employees needed to rightsize by offering earl
 Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database - to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. 
 
 ## [Using Python To Determine School Performance](https://github.com/tcottrell321/school_district_analysis)
+## <a id="#using-python-to-determine-school-performance"></a> Using Python To Determine School Performance
 ### Using Python, Pandas, and Numpy I analyzed the performance of 14 schools within a single district in light of cheating. I learned techniques for dealing with invalid data. 
 ![](/images/schooltesting1.jpg)
 ### Situation
 Test results from 14 individual schools in one district were analyzed, stacked ranked for comparison, then summarized for district level performance against various parameters such as Spending/Student and Class Sizes. After discovering test score cheating at one school, the data had to be cleaned and resummarized to ensure district level data integrity and results. 
-### <a id="#using-python-to-determine-school-performance"></a> Using Python To Determine School Performance
+
 ### Actions and Output Value  
 The student files were imported into dataframes then the data had to be cleaned for NULL data, inconsistencies in text fields, and omitting data from 9th Grade classes as it had been changed dishonestly at the school level. To do this work, a number of Python functions and methods from Python and the Pandas/Numpy libraries. The data was then analyszed to answer a number of questions from the School Board, as well as provide District Level Summary Analysis. Consideration had to be given as to how the omitted data affected overall Summary Results. Work was performed under the direction of a Senior Data Scientist who worked directly with the School Board. 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
