@@ -14,6 +14,16 @@ Rather than just winging it, the smart use of data analytics and past kickstarte
 ### Actions and Output Value
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
 
+## [Tacking COVID-19 In San Mateo County_CA](https://github.com/tcottrell321/COVID-19_Tracking_San_Mateo_County)
+### Using a simple excel spreadsheet and weekly data from San Mateo Country, a single stacked-bar graph is produced to provide a snap shot on how the county is doing in controlling the sprad of COVID. 
+![](/images/COVID-19_San-Mateo_County.jpg)
+
+### Situation
+The San Mateo County Health Dept publishes COVID-19 updates on their website. I provide a simplified version to track total numbers by age and hospital utilization percentages which are hard to find on the County website. 
+
+### Actions and Output
+Using a simple excel spreadsheet, data is transcribed from a number of different pages on the County website to bring all critical data in one place which can support citizen's shelter in place decisions. I update the data once per week. 
+
 ## [Providing Decision Support for Company Rightsizing](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
 ### Using SQL to perform transformation and load operations on HR data, I provided Decision Support for Senior Managers on upcoming early retirement and succession planning decisions. 
 ![](/images/employees2.jpg)
