@@ -1,4 +1,4 @@
-{link to below](#using-python-for-determining-school-performance)
+[link to below](#using-python-for-determining-school-performance)
 
 
 ## Portfolio Introduction
