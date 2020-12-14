@@ -15,7 +15,7 @@ Rather than just winging it, the smart use of data analytics and past kickstarte
 Using data from over 4000 past campaigns, Excel and its built-in functions were used to filter, sort, calculate, and analyze the data to gain insight to patterns, trends, and attributes leading to success. Heavy use of Excel Statistical Functions and Whisker Plots, Line Charts, and Tablular Data served as powerful tools to gain insights on how Louise can best plan her campaign.  
 
 ## [Tracking COVID-19 In San Mateo County_CA](https://github.com/tcottrell321/COVID-19_Tracking_San_Mateo_County)
-### Using an excel spreadsheet and data from the San Mateo County Health site, a single stacked-bar graph is produced.  
+### Using an excel spreadsheet and data from the San Mateo County Health site, a single stacked-bar graph is produced to better inform residents.  
 ![](/images/COVID_image.jpg)
 
 ### Situation
@@ -47,7 +47,7 @@ The student files were imported into dataframes then the data had to be cleaned 
 The results were summarized into a final report with District Level Summary Tables, insights and conclusions found in the data. 
 
 ## [Using AI to Help Direct Donations To Non-Profits](https://github.com/tcottrell321/AlphabetSoupChallenge)
-### Can Machine Learning be used to improve the ROI of investments made in Non-Profits? In this application using TensorFlow and Scikit-Learn a Machine Learning Model was trained using sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
+### In this application using TensorFlow and Scikit-Learn, a Machine Learning Model was trained using sucessful past investments in Non-Profit orgranizations in order to better predict where to make future donations. 
 ![](/images/ai.jpg)
 
 ### Situation
