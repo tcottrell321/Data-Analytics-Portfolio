@@ -24,7 +24,7 @@ A large company with over 300,000 employees needed to rightsize by offering earl
 Using CSV employee files, I used SQL and Visual Studio - plus a local PostgreSQL database - to perform an exploratory data analysis against various parameters. I designed the ERD, created the DB, loaded the data, then filtered, sorted, and cleaned the data. Finally, I built SQL queries to answer the business questions posed by Senior Managment - ultimately providing them a written report to make informed, legal, data-driven rightsizing and succession planning decisions. To promote transparency and legality, I documented each part of the process in the report so Senior Mgt could see how the target employee lists were generated. 
 
 ## [Using Python To Determine School Performance](https://github.com/tcottrell321/school_district_analysis)
-## <a id="#using-python-to-determine-school-performance"></a> Using Python To Determine School Performance
+## <a id="#using-python-to-determine-school-performance"></a> Using 
 ### Using Python, Pandas, and Numpy I analyzed the performance of 14 schools within a single district in light of cheating. I learned techniques for dealing with invalid data. 
 ![](/images/schooltesting1.jpg)
 ### Situation
