@@ -1,5 +1,6 @@
 ![](/images/ThomasCottrell3.png)
 [My Story](#my-story)
+## <a id="#portfolio-introduction"></a>
 ## Portfolio Introduction
 As the field of Data Science and Analytics continues to mature, the range of business problems it can help solve is staggering. Each project in this portfolio illustrates a business problem, either real or simulated, and how applying data science technology can help solve it with solutions ranging from simple excel to sophisticated AI/Machine Learning networks. To see more details and the GitHub code repository, click on the Blue Titles below. 
 
@@ -124,5 +125,5 @@ Whatever stage your business is in – startup, pivoting, midsize, or multi-nati
 
 What are your biggest problems and barriers to growth or profitability? Let’s have a conversation and articulate your pain points and opportunities to see if I can help. 
 
-Here’s to your success! 
-Thomas Cottrell
+Here’s to your success!
+[return to portfolio of projects](#portfolio-introduction)
