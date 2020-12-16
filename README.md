@@ -1,5 +1,5 @@
 ![](/images/ThomasCottrell3.png)
-
+[My Story](#my-story)
 ## Portfolio Introduction
 As the field of Data Science and Analytics continues to mature, the range of business problems it can help solve is staggering. Each project in this portfolio illustrates a business problem, either real or simulated, and how applying data science technology can help solve it with solutions ranging from simple excel to sophisticated AI/Machine Learning networks. To see more details and the GitHub code repository, click on the Blue Titles below. 
 
@@ -80,3 +80,49 @@ If LendingClub instead wishes to maximize profitability instead of markeshare, t
 ![](/images/dashboard1.jpg)
 As a member of the global Tableau Community via #MakoverMonday I am challenged each Monday to improve a VIZ using either Tableau, Power BI, Google Data Studio or other visualization tools, and publish my work to the Tableau Public Website. Each Wednesday, our work is reviewed by the Leaders so we can continue to learn and improve. Click the title above to see my evolving portfolio of VIZs.  
 
+## <a id="#my-story"></a> 
+### My Story
+Over the last few years, I have had the good fortune of serving world-class companies such as Tesla, SolarCity, Saba Software, and Hewlett-Packard. I have helped build new markets or disrupt legacy; launch new products and expand the demographic base; re-engineer manufacturing processes, and refine the customer experience. 
+
+My unique skill is moving fluidly between business leaders, software developers, and customers to seek out and interpret relevant data and put that data into actionable improvements - be it products, processes, or services to better serve customers. 
+
+Although currently, I best identify as a Busines Data Analyst, I’ve conducted similar work under the following titles:
+
+1)	Business Intelligence Analyst
+2)	Program Manager
+3)	Sales Engineer
+4)	Sales Operations and Analytics Director
+5)	Customer Support Manager
+6)	Business Development Manager
+7)	Scrum Master
+8)	Product Manager
+
+Across these roles, regardless of the size or market of the business, I have observed one common thread to success; that is, that your business leaders and team members must:
+
+1)	Harness the power of data to drive every decision. 
+2)	Have a clear idea of how their teams are performing against the right KPI’s. 
+3)	Know what problems they need to solve to get their team performance, product or service, or Customer understanding to the next breakthrough level. 
+4)	Know what problems Not to solve. 
+5)	Leverage the data around them and transform it into accurate, timely, insightful reports, visualizations, dashboards, and “predictive analysis” that helps guide them in real-time to achieve department and company goals.    
+
+In each position I held, be it Sales, Manufacturing, R&D, or Customer Support, I looked to the relevant data for stories and insights so I might take actions for improvement. As Data Science and the toolset became ever more capable, my skills and experience developed within two domains: first, Business Analysis. Second, Data Science and Analytics, applying both to the company’s processes, products, or customer experience to improve results. 
+
+Because of the rapid development in Data Science, I decided in 2019 to level up by attending an immersive, full-time 6-month program in Data Science and Analytics at UC Berkeley School of Information. One of the best programs in the country, and graduating with honors, I was introduced to a broader array of Data Science’s most advanced tools through project-based learning – some of which you can see on my GitHub Portfolio at tomcottrell.com. 
+
+The core tools I favor and continue learning about every day are:
+
+1)	SQL for interacting with the source of data.
+2)	Python, Pandas, Numpy, Matplotlib, and Scikit-Learn for data wrangling and data exploration.
+3)	Tableau, Excel, and Power BI for analysis and visualizations. 
+4)	Tensor Flow and Scikit-Learn for some exploratory Machine Learning projects I am doing. 
+5)	Google Co-Labs or AWS cloud-based servers for ML projects and their advanced GPUs/CPUs.  
+6)	And with Agile versus Waterfall proving to be the development methodology of choice, these skills are essential as well.
+
+Other useful tools exist, and with Google Search, W3, and Stack Overflow, it is common to add technologies rapidly as needed on-the-job. 
+
+Whatever stage your business is in – startup, pivoting, midsize, or multi-national -- I have been there and helped leaders achieve better results. 
+
+What are your biggest problems and barriers to growth or profitability? Let’s have a conversation and articulate your pain points and opportunities to see if I can help. 
+
+Here’s to your success! 
+Thomas Cottrell
