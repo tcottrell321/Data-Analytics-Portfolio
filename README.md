@@ -126,4 +126,5 @@ Whatever stage your business is in – startup, pivoting, midsize, or multi-nati
 What are your biggest problems and barriers to growth or profitability? Let’s have a conversation and articulate your pain points and opportunities to see if I can help. 
 
 Here’s to your success!
+
 [return to portfolio of projects](#portfolio-introduction)
