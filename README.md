@@ -88,7 +88,7 @@ Over the last few years, I have had the good fortune of serving world-class comp
 
 My unique skill is moving fluidly between business leaders, software developers, and customers to seek out and interpret relevant data and put that data into actionable improvements - be it products, processes, or services to better serve customers. 
 
-Although currently, I best identify as a Busines Data Analyst, I’ve conducted similar work under the following titles:
+Although currently, I best identify as a Business Data Analyst, I’ve conducted similar work under the following titles:
 
 - Business Intelligence Analyst
 -	Program Manager
@@ -96,8 +96,9 @@ Although currently, I best identify as a Busines Data Analyst, I’ve conducted 
 -	Sales Operations and Analytics Director
 -	Customer Support Manager
 -	Business Development Manager
--	Scrum Master
--	Product Manager
+- Development Team Member (Agile/Scrum)
+-	Scrum Master (Agile/Scrum)
+-	Product Owner (Agile/Scrum) 
 
 Across these roles, regardless of the size or market of the business, I have observed one common thread to success; that is, that your business leaders and team members must:
 
