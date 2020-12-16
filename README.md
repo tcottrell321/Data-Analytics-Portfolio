@@ -5,7 +5,6 @@
 As the field of Data Science and Analytics continues to mature, the range of business problems it can help solve is staggering. Each project in this portfolio illustrates a business problem, either real or simulated, and how applying data science technology can help solve it with solutions ranging from simple excel to sophisticated AI/Machine Learning networks. To see more details and the GitHub code repository, click on the Blue Titles below. 
 
 In addition to the GitHub repository, there is a Tableau Public repository containing a sample of Visualizations. 
-
 [Link To Tableau Visualizations](#makeovermonday-tableau-visualizations)
 
 ## [Using Analytics To Set Kickstarter Campaign Goals](https://github.com/tcottrell321/kickstarter-analysis)
@@ -90,22 +89,22 @@ My unique skill is moving fluidly between business leaders, software developers,
 
 Although currently, I best identify as a Busines Data Analyst, I’ve conducted similar work under the following titles:
 
-1)	Business Intelligence Analyst
-2)	Program Manager
-3)	Sales Engineer
-4)	Sales Operations and Analytics Director
-5)	Customer Support Manager
-6)	Business Development Manager
-7)	Scrum Master
-8)	Product Manager
+- Business Intelligence Analyst
+-	Program Manager
+-	Sales Engineer
+-	Sales Operations and Analytics Director
+-	Customer Support Manager
+-	Business Development Manager
+-	Scrum Master
+-	Product Manager
 
 Across these roles, regardless of the size or market of the business, I have observed one common thread to success; that is, that your business leaders and team members must:
 
-1)	Harness the power of data to drive every decision. 
-2)	Have a clear idea of how their teams are performing against the right KPI’s. 
-3)	Know what problems they need to solve to get their team performance, product or service, or Customer understanding to the next breakthrough level. 
-4)	Know what problems Not to solve. 
-5)	Leverage the data around them and transform it into accurate, timely, insightful reports, visualizations, dashboards, and “predictive analysis” that helps guide them in real-time to achieve department and company goals.    
+1.	Harness the power of data to drive every decision. 
+2.	Have a clear idea of how their teams are performing against the right KPI’s. 
+3.	Know what problems they need to solve to get their team performance, product or service, or Customer understanding to the next breakthrough level. 
+4.	Know what problems Not to solve. 
+5.	Leverage the data around them and transform it into accurate, timely, insightful reports, visualizations, dashboards, and “predictive analysis” that helps guide them in real-time to achieve department and company goals.    
 
 In each position I held, be it Sales, Manufacturing, R&D, or Customer Support, I looked to the relevant data for stories and insights so I might take actions for improvement. As Data Science and the toolset became ever more capable, my skills and experience developed within two domains: first, Business Analysis. Second, Data Science and Analytics, applying both to the company’s processes, products, or customer experience to improve results. 
 
@@ -113,12 +112,12 @@ Because of the rapid development in Data Science, I decided in 2019 to level up 
 
 The core tools I favor and continue learning about every day are:
 
-1)	SQL for interacting with the source of data.
-2)	Python, Pandas, Numpy, Matplotlib, and Scikit-Learn for data wrangling and data exploration.
-3)	Tableau, Excel, and Power BI for analysis and visualizations. 
-4)	Tensor Flow and Scikit-Learn for some exploratory Machine Learning projects I am doing. 
-5)	Google Co-Labs or AWS cloud-based servers for ML projects and their advanced GPUs/CPUs.  
-6)	And with Agile versus Waterfall proving to be the development methodology of choice, these skills are essential as well.
+-	SQL for interacting with the source of data.
+-	Python, Pandas, Numpy, Matplotlib, and Scikit-Learn for data wrangling and data exploration.
+-	Tableau, Excel, and Power BI for analysis and visualizations. 
+-	Tensor Flow and Scikit-Learn for some exploratory Machine Learning projects I am doing. 
+-	Google Co-Labs or AWS cloud-based servers for ML projects and their advanced GPUs/CPUs.  
+-	And with Agile versus Waterfall proving to be the development methodology of choice, these skills are essential as well.
 
 Other useful tools exist, and with Google Search, W3, and Stack Overflow, it is common to add technologies rapidly as needed on-the-job. 
 
