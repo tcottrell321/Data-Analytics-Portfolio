@@ -28,8 +28,8 @@ The San Mateo County Health Dept publishes COVID-19 updates on their website but
 ### Actions and Output
 Using a simple excel spreadsheet, data is transcribed from a number of different pages on the County website to bring all critical data in one place which can support citizen's shelter-in-place decisions. I update the data once per week and post the graph on facebook for family and friends. 
 
-## [Providing Decision Support for Company Rightsizing](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
-### Using SQL to perform transformation and load operations on HR data, I provided Decision Support for Senior Managers on upcoming early retirement and succession planning decisions. 
+## [People Analytics - Company Rightsizing](https://github.com/tcottrell321/Pewlett_Hackard_Analysis)
+### People Analytics is driving new opportunities for all companies. Using SQL as the primary tool, I analyzed HR data to provide Decision Support for Senior Managers on upcoming early retirement and succession planning decisions. 
 ![](/images/employees2.jpg)
 
 ### Situation
