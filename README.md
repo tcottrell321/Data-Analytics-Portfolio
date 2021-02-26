@@ -86,9 +86,9 @@ As a member of the global Tableau Community via #MakoverMonday I am challenged e
 ### My Story
 Over the last few years, I have had the good fortune of serving world-class companies such as Tesla, SolarCity, Saba Software, and Hewlett-Packard. I have helped build new markets or disrupt legacy; launch new products and expand the demographic base; re-engineer manufacturing processes, and refine the customer experience. My current focus is on "Improving Sales and Customer Support Performance through Data" through the application of 3 areas of domain expertise:
 
-- 1) Business Analysis and Process Design
-- 2) Data Science
-- 3) Human Performance Technology (HPT) 
+- Business Analysis and Process Design
+- Data Science
+- Human Performance Technology (HPT) 
 
 Although the Business Analysis toolset, and the more recent developments in the Data Science technology have been applied often in recent years, it is the more recent addition of HPT to the mix that has given way to much more impactful improvements in Sales and Support functions. Although HPT has been around in the training world for quite some time, its application and synergy with Business Analysis and now Data Science, is just beginning to realize its full potential. 
 
