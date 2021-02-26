@@ -84,41 +84,36 @@ As a member of the global Tableau Community via #MakoverMonday I am challenged e
 
 ## <a id="#my-story"></a> 
 ### My Story
-Over the last few years, I have had the good fortune of serving world-class companies such as Tesla, SolarCity, Saba Software, and Hewlett-Packard. I have helped build new markets or disrupt legacy; launch new products and expand the demographic base; re-engineer manufacturing processes, and refine the customer experience. 
+Over the last few years, I have had the good fortune of serving world-class companies such as Tesla, SolarCity, Saba Software, and Hewlett-Packard. I have helped build new markets or disrupt legacy; launch new products and expand the demographic base; re-engineer manufacturing processes, and refine the customer experience. My current focus is on "Improving Sales and Customer Support Performance through Data" through the application of 3 areas of domain expertise:
 
-My unique skill is moving fluidly between business leaders, software developers, and customers to seek out and interpret relevant data and put that data into actionable improvements - be it products, processes, or services to better serve customers. 
+- 1) Business Analysis and Process Design
+- 2) Data Science
+- 3) Human Performance Technology (HPT) 
 
-Although currently, I best identify as a Business Data Analyst, I’ve conducted similar work under the following titles:
+Although the Business Analysis toolset, and the more recent developments in the Data Science technology have been applied often in recent years, it is the more recent addition of HPT to the mix that has given way to much more impactful improvements in Sales and Support functions. Although HPT has been around in the training world for quite some time, its application and synergy with Business Analysis and now Data Science, is just beginning to realize its full potential. 
 
-- Business Intelligence Analyst
--	Program Manager
--	Sales Engineer
--	Sales Operations and Analytics Director
--	Customer Support Manager
--	Business Development Manager
-- Development Team Member (Agile/Scrum)
--	Scrum Master (Agile/Scrum)
--	Product Owner (Agile/Scrum) 
+My good fortune to have worked at a startup, under the mentorship of world-renowned Dr. Paul Elliott, (co-author of best selling book THRIVE) enabled me to learn and apply the principles of HPT to real business problems, adding them to my growing skills in Business Analysis and Data Science.  
 
-Across these roles, regardless of the size or market of the business, I have observed one common thread to success; that is, that your business leaders and team members must:
+In my work both as an employee as well as a consultant, regardless of the size or market of the business, I have observed one common thread to success; that is, that your business leaders and team members must:
 
 1.	Harness the power of data to drive every decision. 
 2.	Have a clear idea of how their teams are performing against the right KPI’s. 
 3.	Know what problems they need to solve to get their team performance, product or service, or Customer understanding to the next breakthrough level. 
-4.	Know what problems Not to solve. 
-5.	Leverage the data around them and transform it into accurate, timely, insightful reports, visualizations, dashboards, and “predictive analysis” that helps guide them in real-time to achieve department and company goals.    
+4.	Know what problems Not to solve.
+5.	Know how to reverse engineer and identify those factors correlated to High Performers on their teams and duplicate them across other members.  
+6.	Leverage the data around them and transform it into accurate, timely, insightful reports, visualizations, dashboards, and “predictive analysis” that helps guide them in real-time to achieve department and company goals.    
 
-In each position I held, be it Sales, Manufacturing, R&D, or Customer Support, I looked to the relevant data for stories and insights so I might take actions for improvement. As Data Science and the toolset became ever more capable, my skills and experience developed within two domains: first, Business Analysis. Second, Data Science and Analytics, applying both to the company’s processes, products, or customer experience to improve results. 
+In each position I held or consulted in, be it Sales, Manufacturing, R&D, or Customer Support, I looked to the relevant data and people for stories and insights so I might take actions for improvement. 
 
-Because of the rapid development in Data Science, I decided in 2019 to level up by attending an immersive, full-time 6-month program in Data Science and Analytics at UC Berkeley School of Information. One of the best programs in the country, and graduating with honors, I was introduced to a broader array of Data Science’s most advanced tools through project-based learning – some of which you can see on my GitHub Portfolio at tomcottrell.com. 
+Because of the rapid development in Data Science, I decided in 2019 to level up by attending an immersive, 6-month program in Data Science and Analytics at UC Berkeley School of Information. One of the best programs in the country, and graduating with honors, I was introduced to a broader array of Data Science’s most advanced tools through project-based learning – some of which you can see on my GitHub Portfolio at tomcottrell.com and which I applied immediately to consulting engagements. 
 
-The core tools I favor and continue learning about every day are:
+Within the Data Science domain, the core tools I favor and continue learning about every day are:
 
--	SQL for interacting with the source of data.
+-	Google BigQuery and SQL for interacting with the source of data.
 -	Python, Pandas, Numpy, Matplotlib, and Scikit-Learn for data wrangling and data exploration.
 -	Tableau, Excel, and Power BI for analysis and visualizations. 
 -	Tensor Flow and Scikit-Learn for some exploratory Machine Learning projects I am doing. 
--	Google Co-Labs or AWS cloud-based servers for ML projects and their advanced GPUs/CPUs.  
+-	Google Co-Labs for cloud-based servers for ML projects and their advanced GPUs/CPUs.  
 -	And with Agile versus Waterfall proving to be the development methodology of choice, these skills are essential as well.
 
 Other useful tools exist, and with Google Search, W3, and Stack Overflow, it is common to add technologies rapidly as needed on-the-job. 
